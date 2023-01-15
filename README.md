@@ -9,6 +9,7 @@ variable name wriiten in camel case
 Not for the full use case
 
 -> Use of Linked list for adding Items, dynamic use case
+
 -> Linked list is loaded to dynamically managed array for writing in file in both binary and txt mode.
 
 Only limited feature are added here, other can be added as per need.
